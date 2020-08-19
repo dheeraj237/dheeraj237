@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Dheeraj's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=dheeraj237&show_icons=true)](https://dheeraj237.github.io/about/)
+
+
 <!--
 **dheeraj237/dheeraj237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
