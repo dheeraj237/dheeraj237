@@ -1,4 +1,4 @@
-# Hi there, I'm Dheeraj Suthar 👋
+# Hi there, 👋
 
 <div align="center">
   
@@ -44,7 +44,7 @@ Feel free to reach out if you want to collaborate on exciting projects or just h
 ---
 
 
-💡 Fun Fact: The green squares in my contribution graph represent consistent learning and experimentation! Most of my commits come from private repositories where I maintain personal notes, experiment with new technologies, and build prototypes. This reflects my commitment to continuous learning and staying updated with the latest tech trends.
+💡 Fun Fact: The green squares in my contribution graph represent consistent learning and experimentation! Most of my commits come from private repositories where I maintain personal notes, experiment with new technologies, and build prototypes. I do this for continuous learning and staying updated with the latest tech trends. 
 
 ---
 
