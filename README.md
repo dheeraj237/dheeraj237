@@ -4,7 +4,7 @@
   
 [![Website](https://img.shields.io/badge/Website-about.dsuthar.in-blue?style=for-the-badge&logo=safari)](http://about.dsuthar.in)
 [![Twitter](https://img.shields.io/badge/Twitter-@dheeru237-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/dheeru237)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dheeraj-suthar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dheeraj237)
 
 </div>
 
